@@ -2,6 +2,9 @@
 Test code for Arduino Pro Micro + SX1278
 ok this is the first commit
 
+This has the same functionaltiy as a LoRa Arduino Shield
+
+
 Check out the project page to see where it fits into the big picture
 
 ## Wiki Page
